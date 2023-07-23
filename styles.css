@@ -357,3 +357,56 @@ section {
     width: 20%;
     margin-left: 1.1%;
 }
+
+footer {
+    width: 65.5%;
+    margin-top: -0.2%;
+    margin-left: 19%;
+    margin-right: 20%;
+    margin-bottom: 4%;
+}
+
+footer .logotype {
+    margin-left: 44.5%;
+    margin-top: 8.3%;
+}
+
+footer .menu {
+    width: 350px;
+    margin-top: 5.1%;
+    margin-left: 35.3%;
+}
+
+footer .menu .text{
+    margin-left: 0px;
+    margin-right: 32px;
+    font-family: 'PT Sans';
+    font-size: 14px;
+    font-weight: 400;
+    color: #666;
+}
+
+footer hr {
+    margin-top: 37px;
+}
+
+.info {
+    margin-top: 28px;
+    margin-left: 40.7%;
+    font-family: PT Sans;
+    font-size: 14px;
+    font-weight: 400;
+    color: #666;
+}
+
+.logos {
+    margin-top: 31px;
+    margin-left: 37.2%;
+}
+
+.logos img {
+    width: 34px;
+    height: 34px;
+    margin-left: 0px;
+    margin-right: 16px;
+}

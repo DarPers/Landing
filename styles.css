@@ -120,6 +120,7 @@ main {
     font-size: 40px;
     font-weight: 700;
     line-height: 50px;
+    letter-spacing: 1.5px;
     color: #FFF;
 }
 
@@ -978,7 +979,7 @@ aside .row{
         margin-top: -4px;
         margin-left: 6px;
         margin-bottom: 0px;
-        width: 270px;
+        width: 290px;
         font-size: 36px;
     }
     

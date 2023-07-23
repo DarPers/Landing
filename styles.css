@@ -242,3 +242,82 @@ pre {
     line-height: 24px;
     color: #666;
 }
+
+.pagination {
+    display: flex;
+    width: 40.5%;
+    height: 50px;
+    margin-top: 60px;
+    margin-left: 506px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #dfdfdf;
+}
+
+.pagination .digits {
+    display: flex;
+    width: 212px;
+    height: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'HK Grotesk';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #171717;
+}
+
+.pagination .digits p {
+    width: 9px;
+    height: 16px;
+    margin-right: 42px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+.pagination img {
+    width: 4px;
+    height: 8px;
+    margin-top: 19px;
+}
+
+.left{
+    display: flex;
+}
+
+.right {
+    display: flex;
+}
+
+.left img {
+    margin-left: 23px;
+}
+
+.right img {
+    margin-right: 19x;
+}
+
+.left .text {
+    width: 86px;
+    height: 16px;
+    margin-top: 14px;
+    margin-left: 10px;
+    font-family: 'HK Grotesk';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #A2A2A2;
+}
+
+.right .text {
+    width: 75px;
+    height: 16px;
+    margin-top: 15px;
+    margin-right: 11px;
+    margin-left: 20px;
+    font-family: 'HK Grotesk';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #171717;
+}

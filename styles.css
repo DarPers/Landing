@@ -194,3 +194,51 @@ pre {
 .row_of_blocks {
     display: flex;
 }
+
+.post_2 {
+    width: 61.5%;
+    height: 561px;
+    margin-top: 58px;
+    margin-left: 30%;
+    margin-right: 135px;
+    margin-bottom: -30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #dfdfdf;
+}
+
+.post_2 .date {
+    width: 300px;
+    margin-top: 15px;
+    margin-left: 29px;
+    margin-bottom: 0px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.post_2 .title {
+    width: 600px;
+    height: 27px;
+    margin-top: 7px;
+    margin-left: 29px;
+    text-align: left;
+}
+
+.post_2 .category {
+    margin-top: 22px;
+    margin-left: 29px;
+    text-align: left;
+}
+
+.post_2 .text_of_post {
+    width: 614px;
+    height: 72px;
+    margin-top: 13px;
+    margin-left: 29px;
+    font-family: 'PT Sans';
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 24px;
+    color: #666;
+}

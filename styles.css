@@ -7,3 +7,121 @@
     font-style: normal;
     font-weight: 400;
 }
+
+.header {
+    display: flex;
+    width: 86%;
+    height: 33px;
+    margin-top: 34px;
+    margin-left: 82px;
+}
+
+html, body {
+    overflow-x: hidden;
+    margin: 0px;
+}
+
+.menu {
+    display: flex;
+    width: 26%;
+    height: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+} 
+
+
+.text {
+    width: 63px;
+    height: 16px;
+    margin-right: 20px;
+    text-align: center;
+    font-family: 'PTSerifRegular';
+    font-size: 14px;
+    font-weight: 400;
+    color: #151515;
+}
+
+.logotype {
+    width: 128px;
+    height: 33px;
+    margin-right: 75.8%;
+    font-family: 'PTSerifRegular';
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+}
+
+.logotype hr{
+    width: 125px;
+    height: 6px;
+    margin-top: -10px;
+    border: none;
+    background-color: #C9A96E;
+}
+
+.gold_text {
+    width: 63px;
+    height: 16px;
+    margin-right: 18px;
+    text-align: center;
+    font-family: 'PTSerifRegular';
+    font-size: 14px;
+    font-weight: 400;
+    color: #C9A96E;
+}
+
+img {
+    width: 100%;
+}
+
+.main_block {
+    width: 100%;
+}
+
+main {
+    width: 67%;
+}
+
+.image {
+    width: 103.2%;
+    margin-left: 0px;
+    margin-top: 32px;
+}
+
+.image .text {
+    margin-top: -220px;
+    margin-bottom: 201px;
+    margin-left: 370px;
+}
+
+.image .little_text {
+    font-family: 'PT Sans';
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #FFF;
+}
+
+.image .title {
+    margin-top: 10px;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    width: 560px;
+    text-align: left;
+    font-family: 'PTSerifRegular';
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    color: #FFF;
+}
+
+.image .date {
+    width: 283px;
+    margin-left: 5px;
+    margin-top: 55px;
+    text-align: left;
+    font-family: 'PTSerifRegular';
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFF;
+}

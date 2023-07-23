@@ -1,0 +1,9 @@
+@font-face { 
+    font-family: "PTSerifRegular";
+    src: url("../fonts/PTSerifRegular/PTSerifRegular.eot");
+    src: url("../fonts/PTSerifRegular/PTSerifRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/PTSerifRegular/PTSerifRegular.woff") format("woff"),
+    url("../fonts/PTSerifRegular/PTSerifRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}

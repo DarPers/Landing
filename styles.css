@@ -132,6 +132,7 @@ main {
     font-size: 14px;
     font-weight: 400;
     color: #FFF;
+    white-space: pre;
 }
 
 .block {
@@ -191,6 +192,7 @@ pre {
     font-size: 12px;
     font-weight: 400;
     color: #666;
+    white-space: pre;
 }
 
 .post_1 {
@@ -646,7 +648,7 @@ aside .row{
     background-color: #F8F9FA;
 }
 
-section {
+.big_imgs {
     width: 100%;
 }
 

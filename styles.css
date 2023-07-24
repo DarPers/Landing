@@ -653,6 +653,311 @@ aside .row{
     width: 100%;
 }
 
+@media screen and (max-width: 1850px) {
+   
+    .post_1 {
+        width: 167%;
+        margin-left: 15%;
+        margin-top: 77px;
+    }
+
+    .post_2 {
+        width: 69.5%;
+        height: 575px;
+        margin-top: 34px;
+        margin-left: 15%;
+        margin-bottom: -55px;
+    }
+
+    .block {
+        width: 20%;
+        height: 411px;
+        margin-top: 32px;
+    }
+
+    .logotype {
+        margin-right: 60.5%;
+    }
+
+    .pagination {
+        width: 42%;
+    }
+
+    .pagination p{
+        width: 150%;
+    }
+
+    .photos {
+        width: 1200px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        margin-top: 34px;
+        margin-left: 18.6%;
+    }
+
+    .photos img {
+        width: 296px;
+        height: 296px;
+        margin-left: 3.1%;
+        margin-bottom: 34px;
+    }
+
+    footer {
+        margin-top: 500px;
+    }
+}
+
+@media screen and (max-width: 1750px) {
+    .pagination {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 1650px) {
+    .pagination {
+        width: 47%;
+    }
+
+    .post_3 p {
+        width: 20%;
+        margin-left: 41%;
+    }
+
+}
+
+@media screen and (max-width: 1550px) {
+    .pagination {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 1450px) {
+    .pagination {
+        width: 53%;
+    }
+}
+
+@media screen and (max-width: 1360px) {
+
+    aside {
+        margin-left: 0.1%;
+        margin-top: 47px;
+    }
+
+    .block {
+        width: 23%;
+    }
+
+    .post_2 {
+        width: 80.5%;
+        height: 575px;
+        margin-top: 34px;
+        margin-left: 15%;
+        margin-bottom: -55px;
+    }
+
+    .logotype {
+        margin-right: 60.5%;
+    }
+
+    .pagination {
+        width: 60%;
+        margin-left: 45%;
+    }
+
+    .pagination p{
+        width: 150%;
+    }
+
+    .photos {
+        width: 700px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        margin-top: 34px;
+        margin-left: 27.6%;
+    }
+
+    .photos img {
+        width: 296px;
+        height: 296px;
+        margin-left: 3.1%;
+        margin-bottom: 34px;
+    }
+
+    footer {
+        margin-top: 800px;
+    }
+
+    footer .menu {
+        margin-left: 33%;
+    }
+
+    footer .logos {
+        margin-left: 33%;
+    }
+}
+
+@media screen and (max-width: 1210px) {
+
+    aside {
+        margin-left: 0%;
+        margin-top: 47px;
+    }
+
+    .block {
+        width: 27%;
+    }
+
+    .main_block {
+        gap: 105px;
+    }
+
+    .post_2 {
+        width: 93.5%;
+        height: 575px;
+        margin-top: 34px;
+        margin-left: 15%;
+        margin-bottom: -55px;
+    }
+
+    .logotype {
+        margin-right: 60.5%;
+    }
+
+    .pagination {
+        width: 70%;
+        margin-left: 45%;
+    }
+
+    .pagination p{
+        width: 150%;
+    }
+
+    .photos {
+        width: 700px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        margin-top: 34px;
+        margin-left: 27.6%;
+    }
+
+    .photos img {
+        width: 296px;
+        height: 296px;
+        margin-left: 3.1%;
+        margin-bottom: 34px;
+    }
+
+    footer {
+        margin-top: 800px;
+    }
+
+    footer .menu {
+        margin-left: 33%;
+    }
+
+    footer .logos {
+        margin-left: 33%;
+    }
+}
+
+
+@media screen and (max-width: 1100px) {
+
+    .image .text {
+        margin-left: 10px;
+    }
+
+    aside {
+        margin-left: -10%;
+        margin-top: 47px;
+    }
+
+    .block {
+        width: 30%;
+    }
+
+    .post_2 {
+        width: 110%;
+    }
+
+    .row_of_blocks {
+        display: block;
+    }
+
+    .logotype {
+        margin-right: 35.5%;
+    }
+
+    .pagination {
+        width: 75%;
+        margin-left: 45%;
+    }
+
+    .pagination p{
+        width: 150%;
+    }
+
+    .photos {
+        width: 700px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        margin-top: 34px;
+        margin-left: 18.6%;
+    }
+
+    .photos img {
+        width: 296px;
+        height: 296px;
+        margin-left: 3.1%;
+        margin-bottom: 34px;
+    }
+
+    footer {
+        margin-top: 800px;
+    }
+
+    footer .menu {
+        margin-left: 27%;
+    }
+
+    footer .logos {
+        margin-left: 30%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    .image .text {
+        margin-left: 10px;
+    }
+
+    aside {
+        margin-left: 0.1%;
+        margin-top: 47px;
+    }
+
+    .block {
+        width: 35%;
+    }
+
+    .post_2 {
+        width: 110%;
+    }
+
+    .row_of_blocks {
+        display: block;
+    }
+
+    .pagination {
+        width: 85%;
+        margin-left: 45%;
+    }
+
 @media screen and (max-width: 720px) {
     .body {
         height: 7015px;
@@ -742,7 +1047,7 @@ aside .row{
     aside {
         width: 13%;
         margin-top: 20px;
-        margin-left: -7.7%;
+        margin-left: -22%;
     }
 
     aside .block {
@@ -915,10 +1220,10 @@ aside .row{
         margin-right: 33px;
     }
 
-    .logos {
+   footer .logos {
         width: 600px;
         margin-top: 33px;
-        margin-left: 29%;
+        margin-left: 29.2%;
         margin-right: 0px;
     }
     
@@ -942,7 +1247,7 @@ aside .row{
     }
 
     body {
-        height: 7397px;
+        height: 7697px;
     }
 
     .menu {
@@ -1209,14 +1514,14 @@ aside .row{
         margin-right: 14px;
     }
 
-    .logos {
+    footer .logos {
         display: flex;
         flex-wrap: wrap;
-        gap: 3px;
-        width: 170px;
-        margin-top: 41px;
-        margin-left: 34%;
-        margin-right: 0px;
+        gap: 4px;
+        width: 210px;
+        margin-top: 40px;
+        margin-left: 33.5%;
+        margin-right: 1px;
     }
 
     .logos img {

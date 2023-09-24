@@ -500,7 +500,11 @@ aside .block{
     color: #666;
 }
 
-.button .text {
+.button1{
+    background-color: white;
+}
+
+.button1 .text {
     width: 120px;
     height: 16px;
     margin-top: 13px;
@@ -514,7 +518,7 @@ aside .block{
     color: #C9A96E;
 }
 
-.button hr {
+.button1 hr {
     height: 1px;
     margin-top: 14px;
     border: none;

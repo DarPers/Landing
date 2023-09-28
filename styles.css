@@ -8,6 +8,21 @@
     font-weight: 400;
 }
 
+.dark-mode .text {
+    color: #ffffff;
+}
+
+
+
+.dark-mode .tag {
+    color: #ffffff;
+}
+
+.dark-mode {
+    background-color: #757575;
+    color: #ffffff;
+}
+
 .asign_block {
     display: none;
 }
@@ -38,6 +53,11 @@ html, body {
 } 
 
 
+
+.dark-mode .row {
+    color: #ffffff;
+}
+
 .text {
     width: 63px;
     height: 16px;
@@ -53,7 +73,7 @@ html, body {
     width: 128px;
     height: 33px;
     margin-right: 75.8%;
-    font-family: 'PTSerifRegular';
+    font :'PTSerifRegular';
     font-size: 25px;
     font-weight: 700;
     letter-spacing: 2.5px;
@@ -178,6 +198,18 @@ main {
     color: #171717;
 }
 
+.dark-mode .title {
+    color: #ffffff;
+}
+
+.dark-mode .date {
+    color: #ffffff;
+}
+
+.dark-mode .info {
+    color: #ffffff;
+}
+
 pre {
     margin: 0px;
 }
@@ -185,7 +217,7 @@ pre {
 .date {
     width: 166px;
     height: 16px;
-    margin-top: 10px;
+    margin-rgb(255, 255, 255)px;
     margin-left: 102px;
     margin-right: 102px;
     margin-bottom: 14px;
@@ -239,6 +271,10 @@ pre {
     margin-top: 22px;
     margin-left: 29px;
     text-align: left;
+}
+
+.dark-mode .text_of_post{
+    color: #ffffff;
 }
 
 .post_2 .text_of_post {
@@ -502,6 +538,7 @@ aside .block{
 
 .button1{
     background-color: white;
+    padding-bottom: 2px;
 }
 
 .button1 .text {
